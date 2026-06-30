@@ -50,7 +50,7 @@ Aura combines artificial intelligence with embedded hardware to create a portabl
 Aura
 │
 ├── Arduino
-│   ├── Aura.ino
+│   ├── GIFSUALAI.ino
 │   ├── happy.h
 │   ├── sad.h
 │   ├── angry.h
